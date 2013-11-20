@@ -1,0 +1,17 @@
+{
+  "name": "demo",
+  "version": "0.0.0",
+  "authors": [
+    "sundyxfan"
+  ],
+  "description": "bower demo",
+  "keywords": [
+    "bower"
+  ],
+  "license": "MIT",
+  "homepage": "git@github.com:sundyxfan/",
+  "dependencies": {
+    "jquery": "~2.0.3",
+    "bootstrap": "~3.0.2"
+  }
+}
