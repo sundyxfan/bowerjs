@@ -1,5 +1,5 @@
 {
-  "name": "demo",
+  "name": "bowerjs",
   "version": "0.0.0",
   "authors": [
     "sundyxfan"
@@ -9,7 +9,7 @@
     "bower"
   ],
   "license": "MIT",
-  "homepage": "git@github.com:sundyxfan/",
+  "homepage": "git@github.com:sundyxfan/bowerjs",
   "dependencies": {
     "jquery": "~2.0.3",
     "bootstrap": "~3.0.2"
