@@ -11,7 +11,7 @@
   "license": "MIT",
   "homepage": "git@github.com:sundyxfan/bowerjs",
   "dependencies": {
-    "jquery": "~2.0.3",
+    "jquery": "~1.7.2",
     "bootstrap": "~3.0.2"
   }
 }
